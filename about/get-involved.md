@@ -1,3 +1,7 @@
+---
+description: "Help us make this resource better by contributing. The easiest way is to click on the button at the right \"Edit on Github\" on every page! \U0001F449 \U0001F449"
+---
+
 # 🙌🏽 Get Involved
 
 
