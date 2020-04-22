@@ -6,7 +6,7 @@
 
 * [Participation guideline](about/participation-guideline.md)
 * [🦥 About me](about/about-me.md)
-* [👀 README](about/readme.md)
+* [👀 README](about/about.md)
 * [🔍 The Survey!](about/background.md)
 * [🙌🏽 Get Involved](about/get-involved.md)
 * [📩 Contact us](about/contact-us.md)
@@ -17,7 +17,7 @@
 * [Communities](links-and-resources/for-further-info/README.md)
   * [List of Diverse communities in tech](https://github.com/folkswhocode/awesome-diversity#organizations)
   * [IFF-Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Main_Page)
-* [More](more/README.md)
+* [More](links-and-resources/more/README.md)
   * [Virtual Ice-breakers](https://teamwork.guide/corona-icebreakers/)
   * [Liberating Structures](http://www.liberatingstructures.com/ls-menu/)
   * [Icebreakers](https://carpentries.github.io/instructor-training/icebreakers/index.html%20)
@@ -46,6 +46,6 @@
   * [Discussion Points from LeidenScienceAvengers](events/notes/discussion-points-from-leidenscienceavengers.md)
 * [Links to previous events](events/links-to-previous-events/README.md)
   * [Dos and Don’ts for computational training 2019](https://github.com/selgebali/CCMcr19_dos)
-* [License](license.md)
-* [Future direction](future-direction.md)
+* [License](events/license.md)
+* [Future direction](events/future-direction.md)
 
