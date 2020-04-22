@@ -12,15 +12,12 @@ To gain insight of the current computational landscape in different environments
 
 If you are interested in surveying the digital landscape in your institute and/or would like to know more about existing tools and resources that enhance computational inclusion in academic research, please feel free to join  👏 [Google sheet](https://docs.google.com/spreadsheets/d/1S1Xcghi2Y7RqUCHcv6RTHtQogcSJVDb160SWDjnOcys/edit?usp=sharing)👏
 
-{% tabs %}
-{% tab title="✋🏻 Get Involved 🤚🏻 " %}
+✋🏻 Get Involved 🤚🏻 
 #### Send us your survey questions by submitting them directly to us \([Google submission form](https://docs.google.com/spreadsheets/d/1S1Xcghi2Y7RqUCHcv6RTHtQogcSJVDb160SWDjnOcys/edit#gid=0)\)
 {% endtab %}
-
-{% tab title="📩 Get in-touch" %}
+📩 Get in-touch
 Please feel free to drop me an email at [selgebali@gmail.com](mailto:selgebali@gmail.com)
-{% endtab %}
-{% endtabs %}
+
 
 
 
