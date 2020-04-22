@@ -26,9 +26,3 @@ Please feel free to email me at: [selgebali@gmail.com](mailto:selgebali@gmail.co
 
 
 
-
-
-## Send us your survey questions by submitting them directly to us \([Google submission form](https://docs.google.com/spreadsheets/d/1S1Xcghi2Y7RqUCHcv6RTHtQogcSJVDb160SWDjnOcys/edit#gid=0)\)
-
-📩 Get in-touch Please feel free to drop me an email at [selgebali@gmail.com](mailto:selgebali@gmail.com)
-
