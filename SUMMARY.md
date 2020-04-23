@@ -31,6 +31,7 @@
   * [Awesome Diversity list](https://github.com/folkswhocode/awesome-diversity)
   * [Leading groups online](http://www.leadinggroupsonline.org/ebooks/Leading%20Groups%20Online.pdf)
   * [NumFOCUS DISCOVER Cookbook](https://discover-cookbook.numfocus.org/)
+  * [Icons for everything](https://thenounproject.com/)
 
 ## Advice and Tools
 
