@@ -18,6 +18,7 @@
   * [List of Diverse communities in tech](https://github.com/folkswhocode/awesome-diversity#organizations)
   * [IFF-Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Main_Page)
 * [More](links-and-resources/more/README.md)
+  * [Ethical Alternatives & Resources](https://ethical.net/resources/)
   * [Virtual Ice-breakers](https://teamwork.guide/corona-icebreakers/)
   * [Liberating Structures](http://www.liberatingstructures.com/ls-menu/)
   * [Icebreakers](https://carpentries.github.io/instructor-training/icebreakers/index.html%20)
