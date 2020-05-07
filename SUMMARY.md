@@ -45,6 +45,7 @@
 ## Events
 
 * [Notes](events/notes/README.md)
+  * [OpenCider-elife ppt](https://docs.google.com/presentation/d/1Rpwf4H5DlpdO6GP2993wXIyN-7EcN4tkr0bqzGeG-Pg/edit#slide=id.p)
   * [Discussion Points from LeidenScienceAvengers](events/notes/discussion-points-from-leidenscienceavengers.md)
 * [Links to previous events](events/links-to-previous-events/README.md)
   * [Dos and Don’ts for computational training 2019](https://github.com/selgebali/CCMcr19_dos)
