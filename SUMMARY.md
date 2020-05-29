@@ -18,6 +18,7 @@
   * [List of Diverse communities in tech](https://github.com/folkswhocode/awesome-diversity#organizations)
   * [IFF-Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Main_Page)
 * [More](links-and-resources/more/README.md)
+  * [Creating an Online Community, Class or Conference - Quick Tech Guide](https://docs.google.com/document/d/1ux3lTnUTpzZRuvxE3rAsSQ4Ihub96S8_OYECNh8wv-A/edit#)
   * [Ethical Alternatives & Resources](https://ethical.net/resources/)
   * [Virtual Ice-breakers](https://teamwork.guide/corona-icebreakers/)
   * [Liberating Structures](http://www.liberatingstructures.com/ls-menu/)
@@ -33,6 +34,7 @@
   * [Leading groups online](http://www.leadinggroupsonline.org/ebooks/Leading%20Groups%20Online.pdf)
   * [NumFOCUS DISCOVER Cookbook](https://discover-cookbook.numfocus.org/)
   * [Icons for everything](https://thenounproject.com/)
+  * [Virtual Conferences: A Guide to Best Practices](https://docs.google.com/document/d/1XsGDOHzBhY9S-D4Smp2p9JgqdI0umZ0IZVi7Nhm0gYg/edit#)
 
 ## Advice and Tools
 
