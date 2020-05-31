@@ -10,6 +10,17 @@ To gain insight of the current computational landscape in different environments
 * 🛠 Which tools are used by researchers in community building and outreach. 
 * 📎 Which computational tools do you need? What would you like to see developed?
 
+
+
+
+
+Our vision is to create a valuable resource where we can offer:
+
+* A space for knowledge-sharing, advice, good practices, workflows, and a list of tools to facilitate computational training and research data management.
+* Guidelines and lessons learned from LMICs \(low and middle-income countries\).
+* Ideas for the development of accessible, adaptable technical solutions.
+* A community space for diverse open data and open research enthusiasts to connect and collaborate.
+
 If you are interested in surveying the digital landscape in your institute and/or would like to know more about existing tools and resources that enhance computational inclusion in academic research, please feel free to join 👏 [Google sheet](https://docs.google.com/spreadsheets/d/1S1Xcghi2Y7RqUCHcv6RTHtQogcSJVDb160SWDjnOcys/edit?usp=sharing)👏
 
 {% tabs %}
