@@ -1,4 +1,4 @@
-# 🦥 About me
+# 🦥 Our Team
 
 ## Dr. Sara El-Gebali
 
