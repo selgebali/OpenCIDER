@@ -10,10 +10,6 @@ To gain insight of the current computational landscape in different environments
 * 🛠 Which tools are used by researchers in community building and outreach. 
 * 📎 Which computational tools do you need? What would you like to see developed?
 
-
-
-
-
 Our vision is to create a valuable resource where we can offer:
 
 * A space for knowledge-sharing, advice, good practices, workflows, and a list of tools to facilitate computational training and research data management.
