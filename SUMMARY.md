@@ -10,7 +10,7 @@
 * [Participation Guideline](about/participation-guideline.md)
 * [🙌🏽 Get Involved](about/get-involved.md)
 * [📩 Contact us](about/contact-us.md)
-* [Supporters](about/contributions.md)
+* [💜 Supporters](about/contributions.md)
 
 ## External Resources <a id="links-and-resources"></a>
 
