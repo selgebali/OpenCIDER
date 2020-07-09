@@ -1,6 +1,6 @@
 # 🔍 The Survey!
 
-To gain insight of the current computational landscape in different environments, we aim to launch a survey to assess the needs and requirements of individuals from different backgrounds by covering the following topics:
+To gain insight of the current computational landscape in different environments, we aim to launch a survey to **assess the needs and requirements of individuals from different backgrounds** by covering the following topics:
 
 * 🛠 Which tools are used by researchers at different data life-cycle
 
