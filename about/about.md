@@ -1,6 +1,6 @@
-# 👀 README
+# 💻 About Us
 
-OpenCider \(Open Computational Inclusion and Digital Equity Resource\) offers a space for sharing knowledge, advice, good practices, workflows and tools to facilitate computational training and big data analysis. We focus on supporting diverse communities of researchers from varied backgrounds by providing fair access to knowledge to encourage global participation and enhance digital equity by promoting open data practices.
+OpenCIDER \(Open Computational Inclusion and Digital Equity Resource\) offers a space for sharing knowledge, advice, good practices, workflows and tools to facilitate computational training and big data analysis. We focus on supporting diverse communities of researchers from varied backgrounds by providing fair access to knowledge to encourage global participation and enhance digital equity by promoting open data practices.
 
 #### Vision:
 

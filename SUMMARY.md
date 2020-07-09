@@ -5,8 +5,8 @@
 ## About
 
 * [Participation guideline](about/participation-guideline.md)
+* [💻 About Us](about/about.md)
 * [🦥 Our Team](about/our-team.md)
-* [👀 README](about/about.md)
 * [🔍 The Survey!](about/background.md)
 * [🙌🏽 Get Involved](about/get-involved.md)
 * [📩 Contact us](about/contact-us.md)
