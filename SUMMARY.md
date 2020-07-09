@@ -4,10 +4,10 @@
 
 ## About
 
-* [Participation guideline](about/participation-guideline.md)
 * [💻 About Us](about/about.md)
 * [🦥 Our Team](about/our-team.md)
 * [🔍 The Survey!](about/background.md)
+* [Participation guideline](about/participation-guideline.md)
 * [🙌🏽 Get Involved](about/get-involved.md)
 * [📩 Contact us](about/contact-us.md)
 * [Contributions](about/contributions.md)
