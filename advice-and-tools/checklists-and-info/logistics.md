@@ -2,7 +2,7 @@
 description: Print out guides
 ---
 
-# Logistics
+# Logistics: Checklist
 
 
 

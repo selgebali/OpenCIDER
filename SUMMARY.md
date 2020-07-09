@@ -39,8 +39,8 @@
 ## Advice and Tools
 
 * [Checklists and info](advice-and-tools/checklists-and-info/README.md)
-  * [Be Mindful](advice-and-tools/checklists-and-info/behaviour-and-conduct.md)
-  * [Logistics](advice-and-tools/checklists-and-info/logistics.md)
+  * [Be Mindful: Checklist](advice-and-tools/checklists-and-info/behaviour-and-conduct.md)
+  * [Logistics: Checklist](advice-and-tools/checklists-and-info/logistics.md)
   * [Materials and Methods](advice-and-tools/checklists-and-info/materials-and-methods.md)
   * [Tools and computational infrastructure](advice-and-tools/checklists-and-info/tools-and-computational-infrastructure.md)
 
