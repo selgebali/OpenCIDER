@@ -52,5 +52,7 @@
 
 ### [News](https://selgebali.gitbook.io/opencider/news)
 
+* NewsLetter \#1
+
 ### \*\*\*\*[**License**](https://selgebali.gitbook.io/opencider/license)\*\*\*\*
 
