@@ -14,8 +14,8 @@
 
 * Quick guide
 * Checklists:
-* *  Virtual workshop for audience in LMICs
-  *  Inclusive space for hackathons
+  *  Virtual workshop for audience in LMICs
+  * Inclusive space for hackathons
   * Accessible software design
   * Event logistics
   * Be Mindful
