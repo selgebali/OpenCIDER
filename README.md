@@ -2,7 +2,7 @@
 description: Open Computational Inclusion and Digital Equity Resource
 ---
 
-# OpenCider
+# OpenCIDER
 
 🖐🏽 Welcome to [OpenCider](https://twitter.com/OpenCIDER) \(Open Computational Inclusion and Digital Equity Resource\). 
 
