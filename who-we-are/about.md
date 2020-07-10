@@ -20,5 +20,3 @@ This resource is intended for anyone who is interested in open data, community b
 
 ### 
 
-### What will we be doing? ➡️  
-
