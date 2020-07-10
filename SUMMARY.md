@@ -21,7 +21,7 @@
     * [After an event](what-we-do/checklists/after-an-event.md)
   * [Resources](what-we-do/resources/README.md)
     * [Tools and computational infrastructure](what-we-do/resources/tools-and-computational-infrastructure.md)
-    * [Materials and Methods](what-we-do/resources/materials-and-methods.md)
+    * [Pedagogical methods](what-we-do/resources/materials-and-methods.md)
   * [The Survey!](what-we-do/background/README.md)
     * [Future direction](what-we-do/background/future-direction.md)
   * [Links](what-we-do/more/README.md)

@@ -1,4 +1,4 @@
-# Materials and Methods
+# Pedagogical methods
 
 > Know your Audience before choosing content, materials, and method of delivery.
 
