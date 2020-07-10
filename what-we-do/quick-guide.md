@@ -70,7 +70,7 @@ Here are some guides that can help you adapt your teaching practices:
 {% hint style="info" %}
 * Community building 
 * Accessibility tips:
-  * 
+  * Make It Plain: Accessibility and Usability Through Plain Language [here](https://www.slideshare.net/AccessForAll/make-it-plain-accessbility-and-usability-through-plain-language)
 {% endhint %}
 
 #### Where can I find info about mentoring others?
