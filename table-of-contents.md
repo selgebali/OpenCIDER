@@ -1,18 +1,15 @@
 # Table of contents
 
-## \*\*\*\*[**Who we are:**](https://selgebali.gitbook.io/opencider/who-we-are)\*\*\*\*
+### \*\*\*\*[**Who we are:**](https://selgebali.gitbook.io/opencider/who-we-are)\*\*\*\*
 
-* [About us](https://selgebali.gitbook.io/opencider/who-we-are/about)
+* About us:
+  * Quick guide
 * Our Team
 * Supporters:
-* * Organisations
   * People
-* Need help? Quick guide:
-* * Questions and Answers
+  * Organisations
 
-**Participation Guidelines:**
-
-* Code of Conduct
+### **Code of Conduct**
 
 **What we do:** 
 
