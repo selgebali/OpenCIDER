@@ -12,7 +12,7 @@ To find out how to contribute to this resource, please see the full list of thin
 
 Feel free to 📌 bookmark  this page and sign up to our [newsletter](https://buttondown.email/OpenCider) to keep an eye on future updates.
 
- News:
+ **News:**
 
-`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are so excited to be bringing you our first community call on August 3rd at 19:00 CEST under the theme “Low-Tech Strategies for Data Literacy”. <br><br>Our keynote speaker <a href="https://twitter.com/sdopoku?ref_src=twsrc%5Etfw">@sdopoku</a> will tell us about Accessible Data Skills and Tool Design!<br><br>Sign up here <a href="https://t.co/HV4x8QeAl4">https://t.co/HV4x8QeAl4</a></p>&mdash; OpenCIDER (@OpenCIDER) <a href="https://twitter.com/OpenCIDER/status/1282998234819043330?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+We are so excited to be bringing you our first community call on August 3rd at 19:00 CEST under the theme “Low-Tech Strategies for Data Literacy”. Our keynote speaker[@sdopoku](https://twitter.com/sdopoku) will tell us about Accessible Data Skills and Tool Design! Sign up [here](https://t.co/HV4x8QeAl4?amp=1)
 
