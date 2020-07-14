@@ -14,7 +14,5 @@ Feel free to 📌 bookmark  this page and sign up to our [newsletter](https://bu
 
  **News:**
 
-
-
 We are so excited to be bringing you our first community call on August 3rd at 19:00 CEST under the theme “Low-Tech Strategies for Data Literacy”. Our keynote speaker[@sdopoku](https://twitter.com/sdopoku) will tell us about Accessible Data Skills and Tool Design! Sign up [here](https://t.co/HV4x8QeAl4?amp=1)
 
