@@ -33,6 +33,7 @@
     * [Liberating Structures](http://www.liberatingstructures.com/ls-menu/)
     * [Icebreakers](https://carpentries.github.io/instructor-training/icebreakers/index.html%20)
     * [Remote Starter Kit](https://www.remotestarterkit.com/?ref=producthunt)
+    * [The Ultimate Webinar Livestreaming List](https://docs.google.com/spreadsheets/d/1lvDY4yYBEeAABQlIpHrjxXxBJ7ZtjQGj7ILp6p2vqdY/edit?ts=5eb19d9b#gid=0)
     * [The CarpentryConnect Planning Kit](https://carpentries.org/blog/2020/04/carpentryconnect-planning-kit/)
     * [Turing way checklist](https://github.com/alan-turing-institute/the-turing-way/blob/ms-collaboration-book/book/content/remote_collaboration/checklist/checklist.md)
     * [Hybrid Event Guide](https://github.com/softwaresaved/hybrid-event-guide)
