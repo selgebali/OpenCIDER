@@ -5,7 +5,7 @@ This Code of Conduct outlines our expectations and requirements applicable to al
 The founders of **OpenCIDER** are committed to providing a harassment-free environment for everyone regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, age, religion or work experience.  We expect cooperation from all participants to help ensure a safe environment for everybody. Therefore, we would like to ask that you follow our code of conduct in all interactions both on and offline.   
 
 
-[When and where to use this Code of Conduct 🕒](#when)
+[When and where to use this Code of Conduct 🕒](https://docs.google.com/document/d/1U_OOpMX3qLAapjMYevuMC3iUBs8iCGwyrskrwnFYmyI/edit#heading=h.re1df9rcztwe)
 
 [Expected behaviour 🌼](https://docs.google.com/document/d/1U_OOpMX3qLAapjMYevuMC3iUBs8iCGwyrskrwnFYmyI/edit#heading=h.o40su0n7o5u7)
 
@@ -30,12 +30,12 @@ The founders of **OpenCIDER** are committed to providing a harassment-free envir
 [License and attribution](https://docs.google.com/document/d/1U_OOpMX3qLAapjMYevuMC3iUBs8iCGwyrskrwnFYmyI/edit#heading=h.3ey5g88wtq15)  
 
 
-## When and where to use this Code of Conduct 🕒 {: #when}
+## When and where to use this Code of Conduct 🕒  <a id="when"></a>
 
 Your participation is contingent upon following these guidelines in all our calls, discussions,, mailing lists, chat channels, documents, group or person-to-person meetings, and any related correspondence.  
 
 
-## Expected behaviour 🌼 {: #expected}
+## Expected behaviour 🌼
 
 The following behaviours are expected of all participants:  
 
