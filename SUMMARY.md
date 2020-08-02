@@ -26,6 +26,7 @@
   * [The Survey!](what-we-do/background/README.md)
     * [Future direction](what-we-do/background/future-direction.md)
   * [Links](what-we-do/more/README.md)
+    * [Icebreaker questions](https://icebreakers.io/)
     * [Using virtual events to facilitate community building: event formats](https://zenodo.org/record/3934385)
     * [Creating an Online Community, Class or Conference - Quick Tech Guide](https://docs.google.com/document/d/1ux3lTnUTpzZRuvxE3rAsSQ4Ihub96S8_OYECNh8wv-A/edit#)
     * [Ethical Alternatives & Resources](https://ethical.net/resources/)
