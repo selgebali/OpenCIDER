@@ -24,7 +24,7 @@ There are lots of ways to get involved in our community and many different ways 
 
 #### Interact with us on Social media, [Twitter](https://twitter.com/OpenCIDER)
 
-#### Join us on [Gitter](https://gitter.im/OpenCider/community)/[Slack](https://join.slack.com/t/opencider/shared_invite/zt-f2717k4n-a~mY9EHxLfF_xOz9YdsBgQ)/[Telegram](https://t.me/opencider)
+#### Join us on [Gitter](https://gitter.im/OpenCider/community)/[Slack](https://join.slack.com/t/opencider/shared_invite/zt-gbh6n6n7-Nuwy84rsy1hHOog7fA5R8Q)/[Telegram](https://t.me/opencider)
 
 #### Share this resource with friends
 
