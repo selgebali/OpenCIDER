@@ -12,7 +12,7 @@ description: 'Questions and Answers:'
 * Awesome Research Tools, [here](https://github.com/emptymalei/awesome-research).
 {% endhint %}
 
-#### I would like to teach my students how to use software X, I learnt to use it in high computing environments, how do I adapt it? // This is how we do computational training in my country/institute/field without relying on internet connection. 
+#### I would like to teach my students how to use software X, I learnt to use it in high computing environments, how do I adapt it? // How we conduct computational training in my country/institute/field without relying on internet connection? 
 
 {% hint style="info" %}
 Here are some guides that can help you adapt your teaching practices:
