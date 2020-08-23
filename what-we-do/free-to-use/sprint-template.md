@@ -6,8 +6,6 @@ description: To view and copy this template please refer to the Google doc.
 
 \`\`[`Google Doc`](https://docs.google.com/document/d/1JUc68g2MPxU1SZrimOXsB62gX_dOxg_JB2HGft6V8H8/edit?usp=sharing)\`\`
 
-Warning: 
-
 📍 Here add any information you would like to highlight such as:
 
 #### Please make a copy to this template to edit it. 
