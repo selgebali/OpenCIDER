@@ -68,4 +68,5 @@
 * [News](news/README.md)
   * [NewsLetter \#1](news/newsletter-1.md)
 * [License](license.md)
+* [SPRINT Template](sprint-template.md)
 
