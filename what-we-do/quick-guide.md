@@ -91,7 +91,7 @@ Here are some guides that can help you adapt your teaching practices:
 #### Where do I find information on other intiatives for Inclusion in tech workforce
 
 {% hint style="info" %}
-* Black Code collective [https://blackcodecollective.com/](https://blackcodecollective.com/) 
+* [Black Code collective](https://blackcodecollective.com/)
 
 #### 
 {% endhint %}

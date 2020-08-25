@@ -59,14 +59,14 @@ I am creating a software, what should I take into consideration for inclusive de
   * 
 * Mentoring guide:
 
-[https://google.github.io/gsocguides/mentor/what-makes-a-good-mentor](https://google.github.io/gsocguides/mentor/what-makes-a-good-mentor)   
+[What makes a good mentor](https://google.github.io/gsocguides/mentor/what-makes-a-good-mentor)
 
 
 Add more questions for Sprint:
 
 * How do I become a better person? I.e. challenging my own biases 
 * Inclusion in tech workforce
-  * [https://blackcodecollective.com/](https://blackcodecollective.com/) 
+  * [Black Code collective](https://blackcodecollective.com/)
 * Use of language:
   * See [our guide be mindful](https://selgebali.gitbook.io/opencider/advice-and-tools/checklists-and-info/behaviour-and-conduct)
 

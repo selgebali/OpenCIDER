@@ -119,9 +119,9 @@ Let us know anonymously:
 * 📍 Alternatively people can write in the google doc / etherpad anonymously. 
 * 📍  Code of conduct:
   * You can use our Code of Conduct as template to create your own or refer to:
-  * Please no Well actually,, No Feigned surprise, no backseat driving, no subtle -isms [https://www.recurse.com/social-rules](https://www.recurse.com/social-rules) 
-  * [https://berlincodeofconduct.org/](https://berlincodeofconduct.org/) 
-  * [https://www.mozilla.org/en-US/about/governance/policies/participation/](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
+  * Please no Well actually,, No Feigned surprise, no backseat driving, no subtle -isms [Recurse Center social rules](https://www.recurse.com/social-rules)
+  * [Berlin Code of Conduct/](https://berlincodeofconduct.org/)
+  * [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 #### 3. Icebreaker and Introductions \(Speakers name , x minute\) \[0:00-0:0x\]
 
@@ -134,7 +134,7 @@ Choose from following prompts:
 
 📍 Depending on how much time and the number of participants, you may want to add a few ice-breakers to choose from. 
 
-📍 [https://icebreakers.io/](https://icebreakers.io/) offers a resource for ice-breaker questions depending on event type. 
+📍 [icebreakers.io](https://icebreakers.io/) offers a resource for ice-breaker questions depending on event type.
 
 * What is the best/worst advice you ever received and why?
 * Do you take notes or jot down ideas online or with a pen and paper?
@@ -166,7 +166,7 @@ Choose from following prompts:
 
 Template: 
 
-* Choose a name for your breakout room, e.g. animals found in the rainforest: [https://www.enchantedlearning.com/subjects/rainforest/Animals.shtml](https://www.enchantedlearning.com/subjects/rainforest/Animals.shtml) 
+* Choose a name for your breakout room, e.g. [animals found in the rainforest](https://www.enchantedlearning.com/subjects/rainforest/Animals.shtml)
 * Breakout room name:
 * Notes:
 * Breakout room name:
