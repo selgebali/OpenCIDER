@@ -12,7 +12,7 @@
 * [What we do](what-we-do/README.md)
   * [Quick guide](what-we-do/quick-guide.md)
   * [Templates](what-we-do/free-to-use/README.md)
-    * [SPRINT Template](what-we-do/free-to-use/sprint-template.md)
+    * [Sprint Template](what-we-do/free-to-use/sprint-template.md)
   * [Checklists](what-we-do/checklists/README.md)
     * [Virtual workshop for audiences in LMICs](what-we-do/checklists/virtual-workshop-for-audiences-in-lmics.md)
     * [Inclusive space for hackathons](what-we-do/checklists/inclusive-space-for-the-hackathon.md)
