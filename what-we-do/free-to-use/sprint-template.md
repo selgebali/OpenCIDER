@@ -122,6 +122,7 @@ Do you have limited internet resources? Please let us know and we will aim to ke
 
 📍  Code of conduct:
 
+
 * You can use our [Code of Conduct](https://selgebali.gitbook.io/opencider/participation-guideline) as template to create your own or refer to:
   * Please no Well actually, No Feigned surprise, no backseat driving, no subtle -isms [https://www.recurse.com/social-rules](https://www.recurse.com/social-rules) 
   * [https://berlincodeofconduct.org/](https://berlincodeofconduct.org/) 
@@ -138,7 +139,7 @@ Choose from following prompts:
 
 📍 Depending on how much time and the number of participants, you may want to add a few ice-breakers to choose from. 
 
-📍 [https://icebreakers.io/](https://icebreakers.io/) offers a resource for ice-breaker questions depending on event type. 
+📍 [icebreakers.io](https://icebreakers.io/) offers a resource for ice-breaker questions depending on event type.
 
 * What is the best/worst advice you ever received and why?
 * Do you take notes or jot down ideas online or with a pen and paper?
@@ -169,6 +170,7 @@ Choose from following prompts:
 * * 
 
 Template: 
+
 
 * Choose a name for your breakout room, e.g. [animals found in the rainforest ](https://www.enchantedlearning.com/subjects/rainforest/Animals.shtml)
 * Breakout room name:

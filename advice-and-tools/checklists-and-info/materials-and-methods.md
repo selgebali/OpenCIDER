@@ -20,5 +20,5 @@ Examples of other approaches integrated in and beyond the "classical" teaching m
 * Data Journalism Handbook: [Spanish](https://mutabit.com/repos.fossil/mapeda/)
 * \[Documentaton: técnicas y herramientas ágiles y resilientes para escribir y publicar juntos\]\[documentaton\] // \(Documentation: agile and resilient tools and techniques to write and publish together\)
 
-\[documentaton\]: [https://mutabit.com/repos.fossil/documentaton/doc/tip/intro-es.md.html](https://mutabit.com/repos.fossil/documentaton/doc/tip/intro-es.md.html)
+\[documentaton\]: [técnicas y herramientas ágiles y resilientes para escribir y publicar juntos](https://mutabit.com/repos.fossil/documentaton/doc/tip/intro-es.md.html)
 
