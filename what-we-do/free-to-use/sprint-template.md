@@ -2,11 +2,11 @@
 description: To view and copy this template please refer to the Google doc.
 ---
 
-# SPRINT Template
+# Sprint Template
 
 \`\`[`Google Doc`](https://docs.google.com/document/d/1JUc68g2MPxU1SZrimOXsB62gX_dOxg_JB2HGft6V8H8/edit?usp=sharing)\`\`
 
-📍 Here add any information you would like to highlight such as:
+📍 Here, add any information you would like to highlight such as:
 
 #### Please make a copy to this template to edit it. 
 
@@ -16,49 +16,52 @@ description: To view and copy this template please refer to the Google doc.
 
 ### Schedule: 
 
-📍 This is an example of a schedule used for a sprint over 2 days each day for 2 hours.   
+📍 This is an example of a schedule used for a sprint over two days with each day lasting for two hours.   
 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">DAY 1: 2 Hours (&#x1F4CD;Add Date)</th>
+      <th style="text-align:left"><b>DAY 1: 2 Hours</b> (&#x1F4CD;Add Date)</th>
       <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Activity</td>
-      <td style="text-align:left">Total time</td>
+      <td style="text-align:left"><b>Activity</b>
+      </td>
+      <td style="text-align:left"><b>Time (Minutes)</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Welcome + Intro +Code of Conduct</td>
-      <td style="text-align:left">5 min</td>
+      <td style="text-align:left">5</td>
     </tr>
     <tr>
       <td style="text-align:left">Icebreaker and Introductions</td>
-      <td style="text-align:left">15 mins</td>
+      <td style="text-align:left">15</td>
     </tr>
     <tr>
-      <td style="text-align:left">Intro//Keynote</td>
-      <td style="text-align:left">10 mins</td>
+      <td style="text-align:left">Intro or Keynote</td>
+      <td style="text-align:left">10</td>
     </tr>
     <tr>
       <td style="text-align:left">Breakout room discussions</td>
-      <td style="text-align:left">20 mins</td>
+      <td style="text-align:left">20</td>
     </tr>
     <tr>
-      <td style="text-align:left">Goals/Objectives of Sprint -How to participate- Expected outcome</td>
-      <td
-      style="text-align:left">5 mins</td>
+      <td style="text-align:left">Goals/Objectives of Sprint (here you can talk about how to participate
+        and expected outcomes)</td>
+      <td style="text-align:left">5</td>
     </tr>
     <tr>
       <td style="text-align:left">Tasks and assignments (people signing up for tasks and assignments)</td>
       <td
-      style="text-align:left">5mins</td>
+      style="text-align:left">5</td>
     </tr>
     <tr>
-      <td style="text-align:left">Day 1 - 1 Hour Remaining (Pomodoro coworking)</td>
+      <td style="text-align:left"><b>Day 1 - 1 Hour Remaining (Pomodoro coworking)</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -75,8 +78,10 @@ description: To view and copy this template please refer to the Google doc.
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Activity</td>
-      <td style="text-align:left">Time</td>
+      <td style="text-align:left"><b>Activity</b>
+      </td>
+      <td style="text-align:left"><b>Time (Minutes)</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Breakout room (to work on tasks and assignments)</td>
@@ -95,11 +100,11 @@ description: To view and copy this template please refer to the Google doc.
     </tr>
     <tr>
       <td style="text-align:left">Milestones achieved + future plans</td>
-      <td style="text-align:left">10 minutes</td>
+      <td style="text-align:left">10</td>
     </tr>
     <tr>
       <td style="text-align:left">Discussions and Thanks</td>
-      <td style="text-align:left">20 minutes</td>
+      <td style="text-align:left">20</td>
     </tr>
   </tbody>
 </table>
@@ -110,18 +115,18 @@ description: To view and copy this template please refer to the Google doc.
 
 #### 2. Inclusive instructions \(Speakers name , x minute\) \[0:00-0:0x\]
 
-Do you have limited internet resources? Please let us know and we will aim to keep our video off and operate audio-only.   
+Do you have limited internet resources? Please let us know and we will aim to keep our video off and operate audio-only. Let us know anonymously:
 
-
-Let us know anonymously:
-
-* 📍 You could Slido 
+* 📍 You could use [Slido](https://www.sli.do/) 
 * 📍 Alternatively people can write in the google doc / etherpad anonymously. 
-* 📍  Code of conduct:
-  * You can use our Code of Conduct as template to create your own or refer to:
-  * Please no Well actually,, No Feigned surprise, no backseat driving, no subtle -isms [Recurse Center social rules](https://www.recurse.com/social-rules)
-  * [Berlin Code of Conduct/](https://berlincodeofconduct.org/)
-  * [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+
+📍  Code of conduct:
+
+
+* You can use our [Code of Conduct](https://selgebali.gitbook.io/opencider/participation-guideline) as template to create your own or refer to:
+  * Please no Well actually, No Feigned surprise, no backseat driving, no subtle -isms [https://www.recurse.com/social-rules](https://www.recurse.com/social-rules) 
+  * [https://berlincodeofconduct.org/](https://berlincodeofconduct.org/) 
+  * [https://www.mozilla.org/en-US/about/governance/policies/participation/](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
 
 #### 3. Icebreaker and Introductions \(Speakers name , x minute\) \[0:00-0:0x\]
 
@@ -166,7 +171,8 @@ Choose from following prompts:
 
 Template: 
 
-* Choose a name for your breakout room, e.g. [animals found in the rainforest](https://www.enchantedlearning.com/subjects/rainforest/Animals.shtml)
+
+* Choose a name for your breakout room, e.g. [animals found in the rainforest ](https://www.enchantedlearning.com/subjects/rainforest/Animals.shtml)
 * Breakout room name:
 * Notes:
 * Breakout room name:
