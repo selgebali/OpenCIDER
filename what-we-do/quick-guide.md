@@ -10,6 +10,7 @@ description: 'Questions and Answers:'
 * If you are struggling to find alternatives that work on your platform, please check our list of tools available [here](https://selgebali.gitbook.io/opencider/advice-and-tools/checklists-and-info/tools-and-computational-infrastructure).
 * Tools Available For Researchers, [here](https://www.rd-alliance.org/group/preservation-tools-techniques-and-policies/wiki/tools-available-researchers-0).
 * Awesome Research Tools, [here](https://github.com/emptymalei/awesome-research).
+* If the software was written for another Operating System, you may be able to use an emulator. For example, Windows programs often run under Linux using Wine.
 {% endhint %}
 
 #### I would like to teach my students how to use software X, I learnt to use it in high computing environments, how do I adapt it? // How we conduct computational training in my country/institute/field without relying on internet connection? 
