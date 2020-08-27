@@ -8,15 +8,15 @@ There are lots of ways to get involved in our community and many different ways 
 
 #### Help us develop guidelines/checklists for the following topics:
 
-* [How to collaborate and send/receive data from international institutes](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide)
-* [Virtual workshop for audiences in LMICs](https://selgebali.gitbook.io/opencider/what-we-do/checklists/virtual-workshop-for-audiences-in-lmics)
-* [Inclusive space for hackathons](https://selgebali.gitbook.io/opencider/what-we-do/checklists/inclusive-space-for-the-hackathon)
-* [Accessible software design](https://selgebali.gitbook.io/opencider/what-we-do/checklists/accessible-software-design)
-* [Planning an event](https://selgebali.gitbook.io/opencider/what-we-do/checklists/planning-an-event)
-* [During an event](https://selgebali.gitbook.io/opencider/what-we-do/checklists/during-an-event)
-* [After an event](https://selgebali.gitbook.io/opencider/what-we-do/checklists/after-an-event)
+* How to collaborate and send/receive data from international institutes, [here](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide)
+* Virtual workshop for audiences in LMICs, [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/virtual-workshop-for-audiences-in-lmics)
+* Inclusive space for hackathons, [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/inclusive-space-for-the-hackathon)
+* Accessible software design [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/accessible-software-design)
+* Planning an event, [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/planning-an-event)
+* During an event [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/during-an-event)
+* After an event [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/after-an-event)
 
-#### [Add a question and/or advice in our Quick Guide](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide)
+#### Add a question and/or advice in our Quick Guide [here](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide)
 
 #### Post your survey questions to 👏 [Google sheet](https://docs.google.com/spreadsheets/d/1S1Xcghi2Y7RqUCHcv6RTHtQogcSJVDb160SWDjnOcys/edit?usp=sharing)👏
 
