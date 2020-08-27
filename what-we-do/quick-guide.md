@@ -18,12 +18,12 @@ description: 'Questions and Answers:'
 {% hint style="info" %}
 Here are some guides that can help you adapt your teaching practices:
 
-* Have a look at our Materials and Methods section, [here](https://selgebali.gitbook.io/opencider/advice-and-tools/checklists-and-info/materials-and-methods).
-* Computer Science without a computer, [here](https://csunplugged.org/en/).
-* Reproducible environments by Turing way, [here](https://deploy-preview-1008--the-turing-way.netlify.app/reproducible_environments/reproducible_environments.html).
-* Strategies for addressing unequal technological access, [here](http://bit.ly/techaccessguide)
-* UCT Low Tech Remote Teaching Guidelines, [here](https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit) 
-* Learners' Experiences from South Africa's Online Workshop, [here](https://carpentries.org/blog/2020/05/south-africa-online-workshop/).
+* Have a look at our [Materials and Methods section](https://selgebali.gitbook.io/opencider/advice-and-tools/checklists-and-info/materials-and-methods).
+* [Computer Science without a computer](https://csunplugged.org/en/).
+* [Reproducible environments by Turing way](https://deploy-preview-1008--the-turing-way.netlify.app/reproducible_environments/reproducible_environments.html).
+* [Strategies for addressing unequal technological access](http://bit.ly/techaccessguide)
+* [University of Cape Town Low Tech Remote Teaching Guidelines](https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit)
+* Learners' Experiences from South Africa's Online Workshop
 * Videoconferencing Alternatives: How Low-Bandwidth Teaching Will Save Us All, [here](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/) 
 {% endhint %}
 
