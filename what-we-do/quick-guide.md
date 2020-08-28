@@ -78,7 +78,7 @@ Here are some guides that can help you adapt your teaching practices:
 
 {% hint style="info" %}
 * [How to be a good mentor](https://google.github.io/gsocguides/mentor/what-makes-a-good-mentor)
-* See OpenCIDER's guide on be mindful
+* [See OpenCIDER's guide on being mindful](https://app.gitbook.com/@selgebali/s/opencider/what-we-do/checklists/behaviour-and-conduct)
 {% endhint %}
 
 #### How do I become a better person? i.e. challenging my own biases 
