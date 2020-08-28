@@ -42,7 +42,8 @@ Here are some guides that can help you adapt your teaching practices:
 #### Can I receive a mobile data grant to attend a conference?
 
 {% hint style="info" %}
-* Wikimedia rapid grants?
+* [Worldwide Mobile Data Pricing ](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
+* Wikimedia rapid grants
 * World wide web
 * Sadilar 
 {% endhint %}
