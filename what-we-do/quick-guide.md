@@ -43,9 +43,11 @@ Here are some guides that can help you adapt your teaching practices:
 
 {% hint style="info" %}
 * [Worldwide Mobile Data Pricing ](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
-* Wikimedia rapid grants
+* [Wikimedia Rapid Grants program](https://meta.wikimedia.org/wiki/Grants:Project/Rapid)
+* [Access Now](https://www.accessnow.org/)
+* [RightsCon Connectivity Fund](https://www.rightscon.org/launching-the-rightscon-connectivity-fund/)
 * World wide web
-* Sadilar 
+* [South African Centre for Digital Language Resources](https://sadilar.org/index.php/en/)
 {% endhint %}
 
 #### What ethical tools can I use?
