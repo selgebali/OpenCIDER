@@ -4,7 +4,7 @@ description: 'Questions and Answers:'
 
 # Quick guide
 
-#### I want to analyse my data but the software only works on specific platforms, what are the alternatives? // My institute can not afford the license, any open source alternatives?// This website/tool is not available in my country, any alternatives? 
+#### I want to analyse my data but the software only works on specific platforms, what are the alternatives? // My institute cannot afford the license, any open source alternatives? // This website/tool is not available in my country, are there any alternatives? 
 
 {% hint style="info" %}
 * If you are struggling to find alternatives that work on your platform, please [check our list of tools available](https://selgebali.gitbook.io/opencider/advice-and-tools/checklists-and-info/tools-and-computational-infrastructure).
