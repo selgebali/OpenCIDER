@@ -50,17 +50,17 @@ Here are some guides that can help you adapt your teaching practices:
 #### What ethical tools can I use?
 
 {% hint style="info" %}
-* Ethicalresources.net 
+* [Ethical Alternatives and Resources](https://ethical.net/resources/) 
 {% endhint %}
 
-#### How do I design a virtual/physical event to be inclusive? // How do I ensure diversity in my event?
+#### How do I design a virtual or physical event to be inclusive? // How do I ensure diversity in my event?
 
 {% hint style="info" %}
 * Carpentries
 * Alan turing
 {% endhint %}
 
-#### Where can I find other groups/information about diversity in tech? In open science?
+#### Where can I find other groups/information about diversity: in tech and/or open science?
 
 {% hint style="info" %}
 * Awesome list
@@ -71,25 +71,25 @@ Here are some guides that can help you adapt your teaching practices:
 {% hint style="info" %}
 * Community building 
 * Accessibility tips:
-  * Make It Plain: Accessibility and Usability Through Plain Language [here](https://www.slideshare.net/AccessForAll/make-it-plain-accessbility-and-usability-through-plain-language)
+  * [Make It Plain: Accessibility and Usability Through Plain Language](https://www.slideshare.net/AccessForAll/make-it-plain-accessbility-and-usability-through-plain-language)
 {% endhint %}
 
 #### Where can I find info about mentoring others?
 
 {% hint style="info" %}
-* How to be a good mentor, [here](https://google.github.io/gsocguides/mentor/what-makes-a-good-mentor%20)
-* Use of language, see our guide be mindful [here](https://selgebali.gitbook.io/opencider/advice-and-tools/checklists-and-info/behaviour-and-conduct)
+* [How to be a good mentor](https://google.github.io/gsocguides/mentor/what-makes-a-good-mentor)
+* See OpenCIDER's guide on be mindful
 {% endhint %}
 
-#### How do I become a better person? I.e. challenging my own biases 
+#### How do I become a better person? i.e. challenging my own biases 
 
 {% hint style="info" %}
-* learn more about your biases, bias test here
+* Learn more about your biases via bias test
 * How to challenge them
 * 
 {% endhint %}
 
-#### Where do I find information on other intiatives for Inclusion in tech workforce
+#### Where do I find information on other initiatives for inclusion in tech workforce?
 
 {% hint style="info" %}
 * Black Code collective [https://blackcodecollective.com/](https://blackcodecollective.com/) 
