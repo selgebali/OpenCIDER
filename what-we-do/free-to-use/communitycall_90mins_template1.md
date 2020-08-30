@@ -124,5 +124,9 @@ Template:
 
 * OpenCider: [https://selgebali.gitbook.io/opencider/](https://selgebali.gitbook.io/opencider/) 
 
+3 ways to stay involved
+
+* Sign up to our [newsletter](https://buttondown.email/OpenCider)
+* 
 #### Thank you for joining! 🎉
 
