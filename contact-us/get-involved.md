@@ -6,15 +6,15 @@ description: "Help us make this resource better by contributing. The easiest way
 
 There are lots of ways to get involved in our community and many different ways to support our work.
 
-#### Help us develop guidelines/checklists for the following topics:
+#### Help us develop guidelines and checklists for the following topics:
 
-* How to collaborate and send/receive data from international institutes, [here](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide)
-* Virtual workshop for audiences in LMICs, [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/virtual-workshop-for-audiences-in-lmics)
-* Inclusive space for hackathons, [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/inclusive-space-for-the-hackathon)
-* Accessible software design [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/accessible-software-design)
-* Planning an event, [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/planning-an-event)
-* During an event [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/during-an-event)
-* After an event [here](https://selgebali.gitbook.io/opencider/what-we-do/checklists/after-an-event)
+* [How to collaborate and send/receive data from international institutions](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide).
+* [Virtual workshop for audiences in LMICs](https://selgebali.gitbook.io/opencider/what-we-do/checklists/virtual-workshop-for-audiences-in-lmics)
+* [Inclusive space for hackathons](https://selgebali.gitbook.io/opencider/what-we-do/checklists/inclusive-space-for-the-hackathon)
+* [Accessible Software Design](https://selgebali.gitbook.io/opencider/what-we-do/checklists/accessible-software-design)
+* [Guide on how to plan an event](https://selgebali.gitbook.io/opencider/what-we-do/checklists/planning-an-event)
+* [Guide for what to do/consider during an event](https://selgebali.gitbook.io/opencider/what-we-do/checklists/during-an-event)
+* [Guide on what to do after an event](https://selgebali.gitbook.io/opencider/what-we-do/checklists/after-an-event)
 
 #### Add a question and/or advice in our Quick Guide [here](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide)
 
