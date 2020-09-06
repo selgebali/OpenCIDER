@@ -68,7 +68,6 @@
 * [Contact us](contact-us/README.md)
   * [How to reach us](contact-us/contact-us.md)
   * [How to get Involved](contact-us/get-involved.md)
-* [News](news/README.md)
-  * [NewsLetter \#1](news/newsletter-1.md)
+* [Newsletter](news.md)
 * [License](license.md)
 
