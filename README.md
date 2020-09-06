@@ -12,7 +12,11 @@ To find out how to contribute to this resource, please see the full list of thin
 
 Feel free to 📌 bookmark this page and sign up to our [newsletter](https://buttondown.email/OpenCider) to keep an eye on future updates.
 
+## Latest:
+
 {% embed url="https://medium.com/@davidtamsey/how-two-biologists-are-making-data-science-resources-accessible-to-anyone-anywhere-9094cacbc562" %}
+
+
 
 
 
