@@ -18,5 +18,9 @@ Feel free to 📌 bookmark this page and sign up to our [newsletter](https://but
 
 
 
+## Join us on Telegram:
+
+{% embed url="https://t.me/joinchat/L9tl5UgvEg49tBRgtSbdEQ" %}
+
 
 
