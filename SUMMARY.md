@@ -12,7 +12,7 @@
 * [What we do](what-we-do/README.md)
   * [Quick guide](what-we-do/quick-guide.md)
   * [Templates](what-we-do/free-to-use/README.md)
-    * [CommunityCall: 90 minutes Template](what-we-do/free-to-use/communitycall_90mins_template1.md)
+    * [CommunityCall Template - 90 minutes](what-we-do/free-to-use/communitycall_90mins_template1.md)
     * [Sprint Template](what-we-do/free-to-use/sprint-template.md)
   * [Checklists](what-we-do/checklists/README.md)
     * [Virtual workshop for audiences in LMICs](what-we-do/checklists/virtual-workshop-for-audiences-in-lmics.md)

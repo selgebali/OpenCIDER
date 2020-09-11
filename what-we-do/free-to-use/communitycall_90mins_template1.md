@@ -4,7 +4,7 @@ description: >-
   template please refer to the Google doc.
 ---
 
-# CommunityCall: 90 minutes Template
+# CommunityCall Template - 90 minutes
 
 \`\`[`Google Template`](https://docs.google.com/document/d/13G_SuFTe5qfo9BUHAzfSwegKMJwGhnsBNBgxPwrgznA/edit?usp=sharing)\`\`
 
