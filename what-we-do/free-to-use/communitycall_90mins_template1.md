@@ -1,8 +1,10 @@
 ---
-description: To view and copy this template please refer to the Google doc.
+description: >-
+  This template is designed for 90 minutes community call. To view and copy this
+  template please refer to the Google doc.
 ---
 
-# CommunityCall\_90mins\_template1
+# CommunityCall: 90 minutes Template
 
 \`\`[`Google Template`](https://docs.google.com/document/d/13G_SuFTe5qfo9BUHAzfSwegKMJwGhnsBNBgxPwrgznA/edit?usp=sharing)\`\`
 
