@@ -13,8 +13,10 @@ Our vision is to create a valuable resourceful platform that serves as a space f
 
 We encourage everyone who is interested in open research practices, community building, inclusion, and computational training to help develop and expand on OpenCIDER. We therefore participated in CarpentryCon@home by running a sprint where participants were encouraged to contribute to the following topics:
 
-* 
-#### 
+* * * Virtual workshop for audience in LMICs
+    * Inclusive space for hackathon 
+    * Accessible software design
+    * Inaccessible Tools and Platforms
 
 Please find the session notes in the Google Doc below:
 
