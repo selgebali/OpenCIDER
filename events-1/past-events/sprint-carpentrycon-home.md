@@ -1,7 +1,5 @@
 # Sprint CarpentryCon@Home
 
-
-
 We aim is to address the lack of diversity of underrepresented groups in open research by encouraging the development of tools and portable solutions adapted to resources of a wide variety of audiences such as those from [low and middle-income countries \(LMICs\)](https://docs.google.com/spreadsheets/d/1nm4JftClJXe6-ZndccrTolvlWwjXEawOFVjJAxPu0ok/edit?usp=sharing).
 
 Our vision is to create a valuable resourceful platform that serves as a space for:
