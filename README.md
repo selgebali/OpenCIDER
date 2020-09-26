@@ -20,7 +20,19 @@ Feel free to 📌 bookmark this page and sign up to our [newsletter](https://but
 
 ## Join us on Telegram:
 
-{% embed url="https://t.me/joinchat/L9tl5UgvEg49tBRgtSbdEQ" %}
+{% embed url="https://t.me/joinchat/L9tl5UgvEg49tBRgtSbdEQ" caption="Telegram" %}
+
+
+
+## Join us on Gitter
+
+{% embed url="https://gitter.im/OpenCider/community" caption="Gitter community" %}
+
+## Join our Slack
+
+{% embed url="https://opencider.slack.com/" caption="Slack: https://opencider.slack.com/ " %}
+
+
 
 
 
