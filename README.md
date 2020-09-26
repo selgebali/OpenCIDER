@@ -22,8 +22,6 @@ Feel free to 📌 bookmark this page and sign up to our [newsletter](https://but
 
 {% embed url="https://t.me/joinchat/L9tl5UgvEg49tBRgtSbdEQ" caption="Telegram" %}
 
-
-
 ## Join us on Gitter
 
 {% embed url="https://gitter.im/OpenCider/community" caption="Gitter community" %}
