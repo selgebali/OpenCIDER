@@ -10,7 +10,7 @@ To gain insight of the current computational landscape in different environments
 * 🛠 Which tools are used by researchers in community building and outreach. 
 * 📎 Which computational tools do you need? What would you like to see developed?
 
-![Research Data Lifecycle](../../.gitbook/assets/screenshot-2020-05-31-at-12.21.26.png)
+![Research Data Lifecycle](../../.gitbook/assets/screenshot-2020-09-26-at-14.33.01.png)
 
 Our vision is to create a valuable resource where we can offer:
 
