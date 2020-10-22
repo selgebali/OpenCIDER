@@ -10,5 +10,7 @@ description: Wonderful souls who support our work!
 
 {% embed url="https://selormtamakloe.medium.com/quitting-a-fulltime-data-science-job-to-build-a-farm-in-ghana-david-selassie-opoku-675fc66475d1" caption="David Selassie Opoku" %}
 
+{% embed url="https://selormtamakloe.medium.com/about" caption="Selorm Tamakloe" %}
+
 
 
