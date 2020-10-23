@@ -6,7 +6,19 @@ description: Open Computational Inclusion and Digital Equity Resource
 
 Welcome to [OpenCider](https://twitter.com/OpenCIDER) \(Open Computational Inclusion and Digital Equity Resource\). 
 
-Here you will find a range of useful information about our work and future plans.  Help us make this resource better by contributing. The easiest way is to click on the button at the right **"Edit on Github" on every page!** 👉
+This space is for effective knowledge transfer and supporting diverse communities of researchers from varied backgrounds by providing fair access to knowledge to encourage global participation and enhance digital equity by promoting open data practices.
+
+### Our focus areas:
+
+* Open Data practices and challenges in Low Middle-Income Countries \(LMICs\) 
+  * Devising strategies to increase participation in Open Data 
+  * Addressing the role of High-Income Countries in enhancing diversity in Open Data
+* Challenges in capacity building and knowledge exchange in LMICs 
+  * Collating and highlighting Low-tech strategies in knowledge dissemination
+* Importance of representation by highlighting work done in LMICs.
+  *  Highlighting communities and individuals actively increasing diversity in Open Data
+* How to establish communication channels for knowledge exchange 
+  *  Raising awareness on resources available 
 
 To find out how to contribute to this resource, please see the full list of things we need help with on [get involved page](https://selgebali.gitbook.io/opencider/contact-us/get-involved).
 

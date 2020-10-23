@@ -18,15 +18,5 @@ Enriching the open data community through propagating the foundations of equity,
 
 This resource is intended for anyone who is interested in open data, community building, inclusion, and diversity as well as effective knowledge transfer and computational training practices.
 
-### Our work and focus areas:
-
-* Open Data practices and challenges in Low Middle-Income Countries \(LMICs\) 
-  * Devising strategies to increase participation in Open Data 
-  * Addressing the role of High-Income Countries in enhancing diversity in Open Data
-* Challenges in capacity building and knowledge exchange in LMICs 
-  * Collating and highlighting Low-tech strategies in knowledge dissemination
-* Importance of representation by highlighting work done in LMICs.
-  *  Highlighting communities and individuals actively increasing diversity in Open Data
-* How to establish communication channels for knowledge exchange 
-  *  Raising awareness on resources available 
+### 
 
