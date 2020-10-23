@@ -24,6 +24,10 @@ Feel free to 📌 bookmark this page and sign up to our [newsletter](https://but
 
 ## Latest:
 
+{% embed url="https://twitter.com/OpenCIDER/status/1319613593369907200?s=20" %}
+
+
+
 {% embed url="https://medium.com/@davidtamsey/how-two-biologists-are-making-data-science-resources-accessible-to-anyone-anywhere-9094cacbc562" %}
 
 
