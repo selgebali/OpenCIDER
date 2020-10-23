@@ -1,4 +1,6 @@
-# Welcome to OpenCider, Open Computational Inclusion & Digital Equity Resource
+# OpenCIDER
+
+## Welcome to [OpenCider](https://twitter.com/OpenCIDER), Open Computational Inclusion & Digital Equity Resource <a id="welcome-to-opencider-open-computational-inclusion-and-digital-equity-resource"></a>
 
 ![](.gitbook/assets/opencider_twitter.jpg)
 
