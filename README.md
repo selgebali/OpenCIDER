@@ -1,10 +1,4 @@
----
-description: Open Computational Inclusion and Digital Equity Resource
----
-
-# OpenCIDER
-
-## Welcome to [OpenCider](https://twitter.com/OpenCIDER), Open Computational Inclusion & Digital Equity Resource
+# Welcome to OpenCider, Open Computational Inclusion & Digital Equity Resource
 
 ![](.gitbook/assets/opencider_twitter.jpg)
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OpenCIDER](README.md)
+* [Welcome to OpenCider, Open Computational Inclusion & Digital Equity Resource](README.md)
 * [Table of contents](table-of-contents.md)
 * [Who we are](who-we-are/README.md)
   * [About Us](who-we-are/about.md)
