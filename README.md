@@ -28,8 +28,6 @@ To find out how to contribute to this resource, please see the full list of thin
 
 ## Latest:
 
-{% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %}
-
 
 
 ## Join us on Telegram:
