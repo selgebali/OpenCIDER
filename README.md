@@ -20,13 +20,15 @@ This space is for effective knowledge transfer and supporting diverse communitie
 
 To find out how to contribute to this resource, please see the full list of things we need help with on [get involved page](https://selgebali.gitbook.io/opencider/contact-us/get-involved).
 
-Feel free to 📌 bookmark this page and sign up to our newsletter to keep an eye on future updates.
+{% hint style="info" %}
+#### Feel free to 📌 bookmark this page and sign up to our [newsletter](https://landing.mailerlite.com/webforms/landing/b5q3a7) to keep an eye on future updates.
+{% endhint %}
+
+
 
 ## Latest:
 
 {% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %}
-
-
 
 
 
