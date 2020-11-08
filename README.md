@@ -28,6 +28,24 @@ To find out how to contribute to this resource, please see the full list of thin
 
 ## Latest:
 
+Has the pandemic and shift to virtual events had a +ve or -ve impact on academic research in terms of attending conferenes, workshops and webinars? **Let's find out!!!** 
+
+Please help us answer the following questions by filling in our **anonymous survey ~5 mins**: 
+
+* Have more people participated in knowledge sharing events this year compared to last year? 
+* Has the shift to online events had an effect on participation rates?
+* What has helped people to participate?
+* What challenges have deterred people from participating?
+* Has gender, demographics, or other factors had an influence \(positive or negative\) on access to knowledge?
+
+{% hint style="info" %}
+**Survey in English:** [ **https://shrtco.de/wPLJR** ](%20https://shrtco.de/wPLJR%20)\*\*\*\*
+
+**Survey in Spanish:** [**https://shrtco.de/TAgokc**](https://shrtco.de/TAgokc)\*\*\*\*
+{% endhint %}
+
+![](.gitbook/assets/conference_attendance.2020-10-23-14_09_22%20%281%29.gif)
+
 
 
 ## Join us on Telegram:
