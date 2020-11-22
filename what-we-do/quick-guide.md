@@ -4,7 +4,7 @@ description: 'Questions and Answers:'
 
 # Quick guide
 
-#### I want to analyse my data but the software only works on specific platforms, what are the alternatives? // My institute cannot afford the license, any open source alternatives? // This website/tool is not available in my country, are there any alternatives? 
+#### I want to analyze my data but the software only works on specific platforms, what are the alternatives? // My institute cannot afford the license, any open source alternatives? // This website/tool is not available in my country, are there any alternatives? 
 
 {% hint style="info" %}
 * If you are struggling to find alternatives that work on your platform, please [check our list of tools available](https://selgebali.gitbook.io/opencider/advice-and-tools/checklists-and-info/tools-and-computational-infrastructure).
@@ -13,7 +13,7 @@ description: 'Questions and Answers:'
 * If the software was written for another Operating System \(OS\), you may be able to use an emulator. For example, Windows programs often run under Linux using Wine.
 {% endhint %}
 
-#### I would like to teach my students how to use software X, I learnt to use it in high computing environments, how do I adapt it? // How we conduct computational training in my country/institute/field without relying on internet connection? 
+#### I would like to teach my students how to use software X, I learned to use it in high computing environments, how do I adapt it? // How we conduct computational training in my country/institute/field without relying on an internet connection? 
 
 {% hint style="info" %}
 Here are some guides that can help you adapt your teaching practices:
@@ -33,7 +33,7 @@ Here are some guides that can help you adapt your teaching practices:
 * 
 {% endhint %}
 
-#### I am creating a software, what should I take into consideration for inclusive design? i.e. use on multiple platforms, doesn’t require any/too heavy internet connection to function, readme file in multiple languages, intuitive design doesn’t require much text, doesn’t require high computing power.
+#### I am creating software, what should I take into consideration for inclusive design? i.e. use on multiple platforms doesn’t require any/too heavy internet connection to function, readme file in multiple languages, the intuitive design doesn’t require much text, doesn’t require high computing power.
 
 {% hint style="info" %}
 * Add lists to inclusive design
@@ -60,7 +60,7 @@ Here are some guides that can help you adapt your teaching practices:
 
 {% hint style="info" %}
 * Carpentries
-* Alan turing
+* Alan Turing
 {% endhint %}
 
 #### Where can I find other groups/information about diversity: in tech and/or open science?
