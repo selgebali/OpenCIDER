@@ -70,4 +70,5 @@
   * [How to get Involved](contact-us/get-involved.md)
 * [Newsletter](news.md)
 * [License](license.md)
+* [Slack communities](slack-communities.md)
 
