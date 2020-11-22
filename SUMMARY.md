@@ -10,6 +10,7 @@
     * [Organisations](who-we-are/contributions/organisations.md)
 * [Code of Conduct](participation-guideline.md)
 * [What we do](what-we-do/README.md)
+  * [Slack communities](what-we-do/slack-communities.md)
   * [Quick guide](what-we-do/quick-guide.md)
   * [Templates](what-we-do/free-to-use/README.md)
     * [CommunityCall Template - 90 minutes](what-we-do/free-to-use/communitycall_90mins_template1.md)
@@ -70,5 +71,4 @@
   * [How to get Involved](contact-us/get-involved.md)
 * [Newsletter](news.md)
 * [License](license.md)
-* [Slack communities](slack-communities.md)
 
