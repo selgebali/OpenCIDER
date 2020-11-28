@@ -1,8 +1,12 @@
 ---
-description: Collection of slack workspaces and communities
+description: >-
+  Collection of slack workspaces and communities related to Academia and
+  Research
 ---
 
 # Slack communities
+
+
 
 {% embed url="https://remoteacademia.com/" caption="Remote Academia" %}
 
