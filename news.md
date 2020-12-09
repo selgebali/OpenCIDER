@@ -2,9 +2,13 @@
 description: Stay up-to-date with what's happening at OpenCIDER!
 ---
 
-# Newsletter
+# Subscribe to Newsletter
 
 ## Sign up for our newsletter 👉 [HERE](https://landing.mailerlite.com/webforms/landing/b5q3a7) 👈
+
+
+
+## 
 
 ## OpenCIDER Newsletter \#3
 
