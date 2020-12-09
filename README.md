@@ -23,12 +23,12 @@ To find out how to contribute to this resource, please see the full list of thin
 #### Connect with us:
 
 {% tabs %}
-{% tab title="Facebook" %}
-{% embed url="https://www.facebook.com/OpenCIDER" %}
-{% endtab %}
-
 {% tab title="Newsletter" %}
 {% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %}
+{% endtab %}
+
+{% tab title="Facebook" %}
+{% embed url="https://www.facebook.com/OpenCIDER" %}
 {% endtab %}
 
 {% tab title="Telegram" %}
