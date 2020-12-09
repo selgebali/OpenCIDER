@@ -20,15 +20,33 @@ This space is for effective knowledge transfer and supporting diverse communitie
 
 To find out how to contribute to this resource, please see the full list of things we need help with on [get involved page](https://selgebali.gitbook.io/opencider/contact-us/get-involved).
 
-{% hint style="info" %}
-#### Feel free to 📌 bookmark this page and sign up to our [newsletter](https://landing.mailerlite.com/webforms/landing/b5q3a7) to keep an eye on future updates.
-{% endhint %}
+#### Connect with us:
 
+{% tabs %}
+{% tab title="Facebook" %}
+{% embed url="https://www.facebook.com/OpenCIDER" %}
+{% endtab %}
 
+{% tab title="Newsletter" %}
+{% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %}
+{% endtab %}
+
+{% tab title="Telegram" %}
+{% embed url="https://t.me/joinchat/L9tl5UgvEg49tBRgtSbdEQ" %}
+{% endtab %}
+
+{% tab title="Slack" %}
+{% embed url="https://opencider.slack.com/" %}
+{% endtab %}
+
+{% tab title="Gitter" %}
+[https://gitter.im/OpenCider/community](https://gitter.im/OpenCider/community)
+{% endtab %}
+{% endtabs %}
 
 ## Latest:
 
-Has the pandemic and shift to virtual events had a +ve or -ve impact on academic research in terms of attending conferenes, workshops and webinars? **Let's find out!!!** 
+Has the pandemic and shift to virtual events had a +ve or -ve impact on academic research in terms of attending conferences, workshops, and webinars? **Let's find out!!!** 
 
 Please help us answer the following questions by filling in our **anonymous survey ~5 mins**: 
 
@@ -47,18 +65,6 @@ Please help us answer the following questions by filling in our **anonymous surv
 ![](.gitbook/assets/conference_attendance.2020-10-23-14_09_22%20%281%29.gif)
 
 
-
-## Join us on Telegram:
-
-{% embed url="https://t.me/joinchat/L9tl5UgvEg49tBRgtSbdEQ" caption="Telegram" %}
-
-## Join us on Gitter
-
-{% embed url="https://gitter.im/OpenCider/community" caption="Gitter community" %}
-
-## Join our Slack
-
-{% embed url="https://opencider.slack.com/" caption="Slack: https://opencider.slack.com/ " %}
 
 
 
