@@ -6,7 +6,7 @@ description: >-
 
 # Slack communities
 
-
+{% embed url="https://mozfest.slack.com/" caption="Mozilla Festival Slack" %}
 
 {% embed url="https://remoteacademia.com/" caption="Remote Academia" %}
 
