@@ -49,6 +49,7 @@
     * [Awesome Diversity list](https://github.com/folkswhocode/awesome-diversity)
     * [Leading groups online](http://www.leadinggroupsonline.org/ebooks/Leading%20Groups%20Online.pdf)
     * [NumFOCUS DISCOVER Cookbook](https://discover-cookbook.numfocus.org/)
+    * [Open Science Beyond Open Access: For and with communities](https://zenodo.org/record/3946773#.X2uYDWhKiUk)
     * [Icons for everything](https://thenounproject.com/)
     * [Virtual Conferences: A Guide to Best Practices](https://docs.google.com/document/d/1XsGDOHzBhY9S-D4Smp2p9JgqdI0umZ0IZVi7Nhm0gYg/edit#)
   * [Communities](what-we-do/for-further-info/README.md)
