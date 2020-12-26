@@ -4,15 +4,20 @@ description: The Varying Openness of Digital Open Science Tools
 
 # Community Call \#2
 
-**Title:** The Varying Openness of Digital Open Science Tools  
-**Date and Time:** 8th of December @ 18:00 CET/17:00 GMT  
-**Registration link:** [https://zoom.us/meeting/register/tJMrde-tqjItGNSUczW7D7fRKMTKJDJR5Llr](https://zoom.us/meeting/register/tJMrde-tqjItGNSUczW7D7fRKMTKJDJR5Llr)
+**Background:** Join us in the talk by **Dr. Louise Bezuidenhout** and **Dr. Johanna Havemann** in dissecting the accessibility of digital infrastructures, tools, and online working practices that underpin open research activities. For more details, please refer to their latest publication: [https://doi.org/10.12688/f1000research.26615.1](https://doi.org/10.12688/f1000research.26615.1)   
+****This talk is brought to you by **OpenCIDER** and **Access2prespectives**.
 
-Join us in the talk by **Dr. Louise Bezuidenhout** and **Dr. Johanna Havemann** in dissecting the accessibility of digital infrastructures, tools, and online working practices that underpin open research activities. For more details, please refer to their latest publication: [https://doi.org/10.12688/f1000research.26615.1](https://doi.org/10.12688/f1000research.26615.1) 
+**Notes:**
 
-![](https://lh4.googleusercontent.com/sgIRwAD8ij7BWDtujEKo6s8kT110VyJdgQ0gc5NCZfyRtsre5EXXhdmZ435vr4nvtr5EtiQ22b2U1o3SsNzDrsvtgSo-G4l0oKj1Y6pOklP7FCp-n1RaG8gGu0oikKBIDSKmzeR_)
+{% embed url="https://docs.google.com/document/d/1vAv81y18RSbmmfCdSxttrRaoLL2fL-FAA7nIt-lQRcg/edit?usp=sharing" %}
 
-This talk is brought to you by **OpenCIDER** and **Access2prespectives**.
+**Slides:**
+
+{% embed url="https://docs.google.com/presentation/d/17GrLvjVBIWaZ\_SW2istu8vWTbuzfYdMJBPDUu85S3R0/edit\#slide=id.p" %}
+
+**YouTube:** 
+
+{% embed url="https://youtu.be/11ZtIqbhlwg" %}
 
 ## **Speakers’ profiles** 
 
