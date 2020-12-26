@@ -1,5 +1,5 @@
 ---
-description: Community Call- The Varying Openness of Digital Open Science Tools
+description: The Varying Openness of Digital Open Science Tools
 ---
 
 # Community Call \#2
