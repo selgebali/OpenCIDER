@@ -28,6 +28,12 @@ description: >-
 
 
 
+{% embed url="https://remoteworkslack.com/?ref=workfrom.co/chat" caption="Slack for Remote workers" %}
+
+{% embed url="https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d" caption="The Full List of 400 Slack Communities" %}
+
+{% embed url="https://slofile.com/" caption="Slofile lists public Slack groups. Discover Slack communities and channels to join." %}
+
 
 
 
