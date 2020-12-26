@@ -2,7 +2,7 @@
 description: Community Call- The Varying Openness of Digital Open Science Tools
 ---
 
-# Upcoming events
+# Community Call \#2
 
 **Title:** The Varying Openness of Digital Open Science Tools  
 **Date and Time:** 8th of December @ 18:00 CET/17:00 GMT  
