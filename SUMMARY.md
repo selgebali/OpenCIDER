@@ -10,6 +10,7 @@
     * [Organisations](who-we-are/contributions/organisations.md)
 * [Code of Conduct](participation-guideline.md)
 * [What we do](what-we-do/README.md)
+  * [OpenCIDER on Youtube](https://www.youtube.com/channel/UChKgFtP2VL8klAQLvBYHWDA)
   * [Slack communities](what-we-do/slack-communities.md)
   * [Quick guide](what-we-do/quick-guide.md)
   * [Templates](what-we-do/free-to-use/README.md)
