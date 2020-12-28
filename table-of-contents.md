@@ -33,9 +33,6 @@
 * [Links](what-we-do/more/)
 * [Communities](what-we-do/for-further-info/)
 * [Articles and Guidelines:](what-we-do/articles-and-guidelines.md)
-  * [Interview with Angelique]()
-  * [Interview with David]()
-  * [Guidelines on combing tech tools for inclusive virtual events]()
 
 ### \*\*\*\*[**Events**](https://selgebali.gitbook.io/opencider/events-1)\*\*\*\*
 
