@@ -7,6 +7,10 @@ description: The Varying Openness of Digital Open Science Tools
 **Background:** Join us in the talk by **Dr. Louise Bezuidenhout** and **Dr. Johanna Havemann** in dissecting the accessibility of digital infrastructures, tools, and online working practices that underpin open research activities. For more details, please refer to their latest publication: [https://doi.org/10.12688/f1000research.26615.1](https://doi.org/10.12688/f1000research.26615.1)   
 ****This talk is brought to you by **OpenCIDER** and **Access2prespectives**.
 
+**Recording:** 
+
+{% embed url="https://youtu.be/11ZtIqbhlwg" %}
+
 **Notes:**
 
 {% embed url="https://docs.google.com/document/d/1vAv81y18RSbmmfCdSxttrRaoLL2fL-FAA7nIt-lQRcg/edit?usp=sharing" %}
@@ -14,10 +18,6 @@ description: The Varying Openness of Digital Open Science Tools
 **Slides:**
 
 {% embed url="https://docs.google.com/presentation/d/17GrLvjVBIWaZ\_SW2istu8vWTbuzfYdMJBPDUu85S3R0/edit\#slide=id.p" %}
-
-**YouTube:** 
-
-{% embed url="https://youtu.be/11ZtIqbhlwg" %}
 
 ## **Speakers’ profiles** 
 
