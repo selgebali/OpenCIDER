@@ -60,7 +60,7 @@
   * [Upcoming events](events-1/upcoming-events-1.md)
   * [Community Calls](events-1/community-calls/README.md)
     * [Community Call \#1](events-1/community-calls/community-call-1.md)
-    * [Community Call \#2](events-1/community-calls/upcoming-events.md)
+    * [Community Call \#2](events-1/community-calls/community-call-2.md)
   * [Past events](events-1/past-events/README.md)
     * [Sprint CarpentryCon@Home](events-1/past-events/sprint-carpentrycon-home.md)
     * [Dos and Don’ts for computational training 2019](https://github.com/selgebali/CCMcr19_dos)
