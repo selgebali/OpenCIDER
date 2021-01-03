@@ -36,9 +36,9 @@
 
 ### \*\*\*\*[**Events**](https://selgebali.gitbook.io/opencider/events-1)\*\*\*\*
 
-* [Community Calls](events-1/community-calls/)
-* [Upcoming events](events-1/community-calls/community-call-2.md)
-* [Past events](events-1/past-events/)
+* [Community Calls](events/community-calls/)
+* [Upcoming events](events/community-calls/community-call-2.md)
+* [Past events](events/past-events/)
 
 ### \*\*\*\*[**Contact us**](https://selgebali.gitbook.io/opencider/contact-us)\*\*\*\*
 
