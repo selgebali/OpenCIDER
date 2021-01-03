@@ -57,7 +57,7 @@
     * [IFF-Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Main_Page)
   * [Articles and Guidelines](what-we-do/articles-and-guidelines.md)
 * [Events](events/README.md)
-  * [Upcoming events](events/upcoming-events-1.md)
+  * [Upcoming events](events/upcoming-events.md)
   * [Community Calls](events/community-calls/README.md)
     * [Community Call \#1](events/community-calls/community-call-1.md)
     * [Community Call \#2](events/community-calls/community-call-2.md)
