@@ -17,7 +17,7 @@ description: The Varying Openness of Digital Open Science Tools
 
 **Slides:**
 
-{% embed url="https://docs.google.com/presentation/d/17GrLvjVBIWaZ\_SW2istu8vWTbuzfYdMJBPDUu85S3R0/edit\#slide=id.p" %}
+{% embed url="https://zenodo.org/record/4334113" caption="Slides available in Zenodo" %}
 
 ## **Speakers’ profiles** 
 
