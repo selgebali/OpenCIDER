@@ -6,6 +6,8 @@ description: >-
 
 # Slack communities
 
+{% embed url="https://join.slack.com/t/access2perspe-ufr1479/shared\_invite/zt-l8ygryls-OZHxG6u5XlbrX8bbTCYSFA" caption="Access2perspectives" %}
+
 {% embed url="https://mozfest.slack.com/" caption="Mozilla Festival Slack" %}
 
 {% embed url="https://remoteacademia.com/" caption="Remote Academia" %}
