@@ -6,9 +6,13 @@ description: >-
 
 # Slack communities
 
+{% embed url="https://opencider.slack.com/" caption="OpenCIDER" %}
+
 {% embed url="https://join.slack.com/t/access2perspe-ufr1479/shared\_invite/zt-l8ygryls-OZHxG6u5XlbrX8bbTCYSFA" caption="Access2perspectives" %}
 
 {% embed url="https://africarxiv.slack.com/join/shared\_invite/zt-77uk08pv-ZPjLGjLpx~GuGrbLwlK~Kw\#/" caption="AfricaArXiv" %}
+
+{% embed url="https://join.slack.com/t/lifescitraining/shared\_invite/enQtNDc2NDk2NzMyNjkyLTA0Zjk5YzAwN2RlMTQyODg3NWJhMzhlY2NkY2I3MzBkZDhlOTY4OTIxYWFjNjQ2MjQ1N2VhYTFhYmU1ZDJiOTc" caption="Life Science Trainers" %}
 
 {% embed url="https://mozfest.slack.com/" caption="Mozilla Festival Slack" %}
 
@@ -24,13 +28,9 @@ description: >-
 
 {% embed url="https://swc-slack-invite.herokuapp.com/" caption="Carpentries on Slack" %}
 
-{% embed url="https://opencider.slack.com/" caption="OpenCIDER" %}
-
 {% embed url="https://rladies-community-slack.herokuapp.com/" caption="Global R-ladies Community" %}
 
 {% embed url="https://slackin.pyladies.com/" caption="Global PyLadies community" %}
-
-
 
 {% embed url="https://remoteworkslack.com/?ref=workfrom.co/chat" caption="Slack for Remote workers" %}
 
