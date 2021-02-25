@@ -4,19 +4,19 @@
 
 ![](.gitbook/assets/opencider_twitter.jpg)
 
-This space is for effective knowledge transfer and supporting diverse communities of researchers from varied backgrounds by providing fair access to knowledge to encourage global participation and enhance digital equity by promoting open data practices.
+"_The Open Data handbook defines open data as data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and share-alike."_ [_https://opendatahandbook.org/guide/en/what-is-open-data/_](https://opendatahandbook.org/guide/en/what-is-open-data/) __
 
-### Our focus areas:
+To advance active participation in open data practices and to improve the quality of research, we need to adopt inclusive practices with particular attention to communities with limited resources to ensure equitable and effective engagement of underrepresented groups. 
 
-* Open Data practices and challenges in Low Middle-Income Countries \(LMICs\) 
-  * Devising strategies to increase participation in Open Data 
-  * Addressing the role of High-Income Countries in enhancing diversity in Open Data
-* Challenges in capacity building and knowledge exchange in LMICs 
-  * Collating and highlighting Low-tech strategies in knowledge dissemination
-* Importance of representation by highlighting work done in LMICs.
-  *  Highlighting communities and individuals actively increasing diversity in Open Data
-* How to establish communication channels for knowledge exchange 
-  *  Raising awareness on resources available 
+To that end, OpenCIDER is a knowledge space where we highlight communities and resources related to several aspects under the umbrella of **Open Data** from a **global** perspective with a strong focus on Low-Middle Income countries \(**LMICs**\). 
+
+We believe that enriching the Open Data community by propagating the foundations of equity, inclusion, sharing, and FAIRness on a **GLOBAL** scale, will provide significant benefits for research. It will also translate to more effective use of resources, increased rigor, transparency, re-use, participation, accountability, and reproducibility
+
+## Check out our Handbook- Open for contributions!! 
+
+{% embed url="https://docs.google.com/document/d/1PqwOcItHUaCrzPoXYp3D1443TQxGBpJN4lccr0tP-hI/edit\#" %}
+
+
 
 To find out how to contribute to this resource, please see the full list of things we need help with on [get involved page](https://selgebali.gitbook.io/opencider/contact-us/get-involved).
 
