@@ -12,7 +12,7 @@ To that end, OpenCIDER is a knowledge space where we highlight communities and r
 
 We believe that enriching the Open Data community by propagating the foundations of equity, inclusion, sharing, and FAIRness on a **GLOBAL** scale, will provide significant benefits for research. It will also translate to more effective use of resources, increased rigor, transparency, re-use, participation, accountability, and reproducibility
 
-## Check out our Handbook- Open for contributions!! 
+## Check out our [Handbook](https://docs.google.com/document/d/1PqwOcItHUaCrzPoXYp3D1443TQxGBpJN4lccr0tP-hI/edit#)- Open for contributions!! 
 
 {% embed url="https://docs.google.com/document/d/1PqwOcItHUaCrzPoXYp3D1443TQxGBpJN4lccr0tP-hI/edit\#" %}
 
