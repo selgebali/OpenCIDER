@@ -38,13 +38,3 @@ description: >-
 
 {% embed url="https://slofile.com/" caption="Slofile lists public Slack groups. Discover Slack communities and channels to join." %}
 
-
-
-
-
-## 
-
-
-
-
-
