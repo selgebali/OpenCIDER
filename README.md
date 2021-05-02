@@ -6,7 +6,7 @@
 
 > "Open data is digital data that is made available with the technical and legal characteristics necessary for it to be freely used, reused, and redistributed by anyone, anytime, anywhere."  [https://opendatacharter.net/principles/](https://opendatacharter.net/principles/)
 
-###                                     Is Open Data a global concept or a privilege?
+### <div align="center">Is Open Data a global concept or a privilege?</div>
 
 To advance active participation in open data practices and to improve the quality of research, we need to adopt inclusive practices with particular attention to communities with limited resources to ensure equitable and effective engagement of underrepresented groups. 
 
