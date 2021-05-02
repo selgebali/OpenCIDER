@@ -2,8 +2,8 @@
 
 * [OpenCIDER](README.md)
 * [Handbook](handbook.md)
-* [Survey](survey.md)
 * [FAQs](quick-guide.md)
+* [Survey](survey.md)
 * [How to get Involved](get-involved.md)
 * [Our Team](our-team.md)
 * [Supporters](contributions/README.md)
