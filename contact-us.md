@@ -4,9 +4,7 @@ description: >-
   platforms:
 ---
 
-# How to reach us
-
-
+# Contact us
 
 * Email: [OpenCider@protonmail.com](mailto:OpenCider@protonmail.com) 
 * Twitter: @[OpenCIDER](https://twitter.com/OpenCIDER) & @[Yalahowy ](https://twitter.com/yalahowy)@[Nazeefa](https://twitter.com/_nazeefatima)
@@ -15,6 +13,4 @@ description: >-
 * Telegram: [OpenCIDER](https://t.me/opencider)
 * Riot//Matrix: opencider:matrix.org
 * Newsletter [Sign-up](https://landing.mailerlite.com/webforms/landing/b5q3a7)
-
-
 

@@ -63,8 +63,7 @@
     * [Dos and Don’ts for computational training 2019](https://github.com/selgebali/CCMcr19_dos)
     * [OpenCider-elife ppt](https://docs.google.com/presentation/d/1Rpwf4H5DlpdO6GP2993wXIyN-7EcN4tkr0bqzGeG-Pg/edit#slide=id.p)
     * [Discussion Points from LeidenScienceAvengers](events/past-events/discussion-points-from-leidenscienceavengers.md)
-* [Contact us](contact-us/README.md)
-  * [How to reach us](contact-us/contact-us.md)
+* [Contact us](contact-us.md)
 * [Subscribe to Newsletter](news.md)
 * [License](license.md)
 
