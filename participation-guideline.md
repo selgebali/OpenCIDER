@@ -1,3 +1,7 @@
+---
+description: Participation guideline
+---
+
 # Code of Conduct
 
 This Code of Conduct outlines our expectations and requirements applicable to all participants including organizers, cohort call hosts, mentors, guest speakers, and experts, regarding activities in relation to any of our events. This code also details steps for reporting unacceptable behavior. Organizers will enforce this code throughout the program. We expect cooperation from all participants to help ensure a safe environment for everybody.
