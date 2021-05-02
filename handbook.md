@@ -1,5 +1,5 @@
 ---
-description: Open Computational Inclusion and Digital Equity Resource Handbook
+description: Open Computational Inclusion and Digital Equity and Regulatory Handbook
 ---
 
 # Handbook
