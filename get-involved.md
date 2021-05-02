@@ -18,8 +18,6 @@ There are lots of ways to get involved in our community and many different ways 
 
 #### Add a question and/or advice in our Quick Guide [here](https://selgebali.gitbook.io/opencider/what-we-do/quick-guide)
 
-#### Post your survey questions to 👏 [Google sheet](https://docs.google.com/spreadsheets/d/1S1Xcghi2Y7RqUCHcv6RTHtQogcSJVDb160SWDjnOcys/edit?usp=sharing)👏
-
 #### Add your contributions on [GitHub](https://github.com/selgebali/OpenCider)
 
 #### Interact with us on Social media, [Twitter](https://twitter.com/OpenCIDER)
