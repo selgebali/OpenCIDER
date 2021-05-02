@@ -41,15 +41,7 @@ We believe that enriching the Open Data community by propagating the foundations
 
 ## Highlight of the month:  
 
-### [World Development Report 2021: DATA FOR BETTER LIVES](https://www.worldbank.org/en/publication/wdr2021)
+### [World Development Report 2021: DATA FOR BETTER LIVE](https://www.worldbank.org/en/publication/wdr2021)
 
-![](.gitbook/assets/dataforbetterlives_page_001.jpg)
-
-
-
-
-
-
-
-
+![](.gitbook/assets/dataforbetterlives_page_001%20%281%29.jpg)
 
