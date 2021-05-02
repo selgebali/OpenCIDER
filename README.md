@@ -12,13 +12,7 @@ To that end, OpenCIDER is a knowledge space where we highlight communities and r
 
 We believe that enriching the Open Data community by propagating the foundations of equity, inclusion, sharing, and FAIRness on a **GLOBAL** scale, will provide significant benefits for research. It will also translate to more effective use of resources, increased rigor, transparency, re-use, participation, accountability, and reproducibility
 
-## Check out our [Handbook](https://docs.google.com/document/d/1PqwOcItHUaCrzPoXYp3D1443TQxGBpJN4lccr0tP-hI/edit#)- Open for contributions!! 
 
-{% embed url="https://docs.google.com/document/d/1PqwOcItHUaCrzPoXYp3D1443TQxGBpJN4lccr0tP-hI/edit\#" %}
-
-
-
-To find out how to contribute to this resource, please see the full list of things we need help with on [get involved page](https://selgebali.gitbook.io/opencider/contact-us/get-involved).
 
 #### Connect with us:
 
@@ -46,23 +40,7 @@ To find out how to contribute to this resource, please see the full list of thin
 
 ## Latest:
 
-Has the pandemic and shift to virtual events had a +ve or -ve impact on academic research in terms of attending conferences, workshops, and webinars? **Let's find out!!!** 
 
-Please help us answer the following questions by filling in our **anonymous survey ~5 mins**: 
-
-* Have more people participated in knowledge sharing events this year compared to last year? 
-* Has the shift to online events had an effect on participation rates?
-* What has helped people to participate?
-* What challenges have deterred people from participating?
-* Has gender, demographics, or other factors had an influence \(positive or negative\) on access to knowledge?
-
-{% hint style="info" %}
-**Survey in English:** [ **https://shrtco.de/wPLJR** ](%20https://shrtco.de/wPLJR%20)\*\*\*\*
-
-**Survey in Spanish:** [**https://shrtco.de/TAgokc**](https://shrtco.de/TAgokc)\*\*\*\*
-{% endhint %}
-
-![](.gitbook/assets/conference_attendance.2020-10-23-14_09_22%20%281%29.gif)
 
 
 

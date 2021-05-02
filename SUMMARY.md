@@ -1,6 +1,8 @@
 # Table of contents
 
 * [OpenCIDER](README.md)
+* [Handbook](handbook.md)
+* [Survey](survey.md)
 * [Table of contents](table-of-contents.md)
 * [Who we are](who-we-are/README.md)
   * [About Us](who-we-are/about.md)
