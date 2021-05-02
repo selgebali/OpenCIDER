@@ -7,7 +7,7 @@ description: >-
 # Contact us
 
 * Email: [OpenCider@protonmail.com](mailto:OpenCider@protonmail.com) 
-* Twitter: @[OpenCIDER](https://twitter.com/OpenCIDER) & @[Yalahowy ](https://twitter.com/yalahowy)@[Nazeefa](https://twitter.com/_nazeefatima)
+* Twitter: @[OpenCIDER](https://twitter.com/OpenCIDER) & @[Yalahowy](https://twitter.com/yalahowy)
 * Slack: [OpenCIDER](https://opencider.slack.com/)
 * Gitter: [OpenCider/community](https://gitter.im/OpenCider/community%20)
 * Telegram: [OpenCIDER](https://t.me/opencider)
