@@ -60,10 +60,10 @@
     * [OpenCider-elife ppt](https://docs.google.com/presentation/d/1Rpwf4H5DlpdO6GP2993wXIyN-7EcN4tkr0bqzGeG-Pg/edit#slide=id.p)
     * [Discussion Points from LeidenScienceAvengers](events/past-events/discussion-points-from-leidenscienceavengers.md)
 * [Contact us](contact-us.md)
+* [Subscribe to Newsletter](news.md)
 * [Our Team](our-team.md)
 * [Supporters](contributions/README.md)
   * [People](contributions/people.md)
   * [Organisations](contributions/organisations.md)
-* [Subscribe to Newsletter](news.md)
 * [License](license.md)
 
