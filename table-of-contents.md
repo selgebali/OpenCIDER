@@ -12,7 +12,7 @@
 
 ### \*\*\*\*[**What we do**](what-we-do/)\*\*\*\*
 
-* [Quick guide](what-we-do/quick-guide.md)
+* [Quick guide](quick-guide.md)
 * [Templates](what-we-do/free-to-use/):
   * [CommunityCall Template.90 minutes](what-we-do/free-to-use/communitycall_90mins_template1.md)
   * [Sprint Template](what-we-do/free-to-use/sprint-template.md)

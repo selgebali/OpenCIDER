@@ -1,8 +1,8 @@
 ---
-description: 'Questions and Answers:'
+description: Frequently Answered Questions
 ---
 
-# Quick guide
+# FAQs
 
 #### I want to analyze my data but the software only works on specific platforms, what are the alternatives? // My institute cannot afford the license, any open source alternatives? // This website/tool is not available in my country, are there any alternatives? 
 
