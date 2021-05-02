@@ -4,8 +4,7 @@
 
 ![](.gitbook/assets/opencider_twitter.jpg)
 
-" Open data is digital data that is made available with the technical and legal characteristics necessary for it to be freely used, reused, and redistributed by anyone, anytime, anywhere. " [https://opendatacharter.net/principles/](https://opendatacharter.net/principles/)   
-
+> "Open data is digital data that is made available with the technical and legal characteristics necessary for it to be freely used, reused, and redistributed by anyone, anytime, anywhere."  [https://opendatacharter.net/principles/](https://opendatacharter.net/principles/)
 
 ###                                     Is Open Data a global concept or a privilege?
 
