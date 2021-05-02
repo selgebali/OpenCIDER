@@ -1,2 +1,0 @@
-# Inclusive space for hackathons
-

@@ -1,2 +1,0 @@
-# After an event
-

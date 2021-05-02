@@ -4,8 +4,6 @@ description: Print out guides
 
 # Event Logistics
 
-
-
 #### Check-list
 
 * [ ]  Bring Wifi router 

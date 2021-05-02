@@ -4,8 +4,6 @@ description: Behaviour and conduct advice
 
 # Be Mindful
 
-
-
 * [ ] What do you do when you begin the session? How you introduce yourself
 * [ ] What can you do differently to invite your students to connect with you.
 * [ ] Use of language, triggers, show of support
