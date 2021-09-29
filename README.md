@@ -6,7 +6,7 @@
 
 > "Open data is digital data that is made available with the technical and legal characteristics necessary for it to be freely used, reused, and redistributed by anyone, anytime, anywhere."  [https://opendatacharter.net/principles/](https://opendatacharter.net/principles/)
 
-### <div align="center">Is Open Data a global concept or a privilege?</div>
+###                                     Is Open Data a global concept or a privilege?
 
 To advance active participation in open data practices and to improve the quality of research, we need to adopt inclusive practices with particular attention to communities with limited resources to ensure equitable and effective engagement of underrepresented groups. 
 
@@ -40,7 +40,25 @@ We believe that enriching the Open Data community by propagating the foundations
 
 ## Highlight of the month:  
 
-### [World Development Report 2021: DATA FOR BETTER LIVE](https://www.worldbank.org/en/publication/wdr2021)
+{% tabs %}
+{% tab title="Systemic inequalities" %}
+![DEI Quick tips](.gitbook/assets/part1.png)
+{% endtab %}
 
-![](.gitbook/assets/dataforbetterlives_page_001%20%281%29.jpg)
+{% tab title="Emotional toll" %}
+![](.gitbook/assets/part-2.png)
+{% endtab %}
+
+{% tab title="What can YOU do?" %}
+![](.gitbook/assets/part3.png)
+{% endtab %}
+
+{% tab title="Remember..." %}
+![](.gitbook/assets/part4.png)
+{% endtab %}
+{% endtabs %}
+
+Full infographic available to download.
+
+![DEI-QuickTips-Infograph](.gitbook/assets/dei-quicktips.jpg)
 
