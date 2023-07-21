@@ -1,12 +1,12 @@
 # Tools and computational infrastructure
 
-The choice of tools and infrastructure can be influenced by several factors, such as; data portability \(transitioning the data from one environment to another\), security and privacy, popularity and use, etc.
+The choice of tools and infrastructure can be influenced by several factors, such as; data portability (transitioning the data from one environment to another), security and privacy, popularity and use, etc.
 
-Here, we list the most popular tools in each category. 
+Here, we list the most popular tools in each category.&#x20;
 
 Before making a choice please note that there is some overlap in the categories and the applications listed, some provide extended functionality and support over more specific ones.
 
-✍️ **Please also share any tools you might have used and/or found interesting, especially open-source tools.** 
+✍️ **Please also share any tools you might have used and/or found interesting, especially open-source tools.**&#x20;
 
 * Instant messaging
   * [WhatsApp](https://www.whatsapp.com/)
@@ -18,9 +18,9 @@ Before making a choice please note that there is some overlap in the categories 
   * [Keybase](https://keybase.io/)
   * [Tox chat](https://tox.chat/)
 * Digital workspace
-  * [Slack](www.slack.com)
+  * [Slack](https://www.slack.com)
   * [MatterMost](https://mattermost.com/)
-  * [Rocket Chat](rocket.chat)
+  * [Rocket Chat](https://app.gitbook.com/s/-M4noejrrF6gWn\_uMhqn/what-we-do/resources/rocket.chat)
   * [Zulip](https://zulipchat.com/)
   * [FreeNode](https://freenode.net/)
   * [BaseCamp](https://basecamp.com/)
@@ -36,7 +36,7 @@ Before making a choice please note that there is some overlap in the categories 
   * [Zoho](https://www.zoho.com/meeting/)
   * [Discord](https://discordapp.com/company)
   * [Crowdcast](https://www.crowdcast.io/)
-  * [Gotomeeting](www.gotomeeting.com)
+  * [Gotomeeting](https://www.gotomeeting.com)
   * [Webex](https://www.webex.com/)
   * [BigBlueButton](https://bigbluebutton.org/)
 * Real-time documentation
@@ -82,7 +82,7 @@ Before making a choice please note that there is some overlap in the categories 
   * [Google Slides with captions](https://support.google.com/docs/answer/9109474?hl=en)
   * Slideshare
 * Pocket infrastructures
-  * [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) 
+  * [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki)&#x20;
   * [Pharo](https://pharo.org/)
 
 Pocket infrastructure offer simple, self-contained, online-offline availability and a functional package manager instead of containers independent of operating system
@@ -90,11 +90,10 @@ Pocket infrastructure offer simple, self-contained, online-offline availability 
 * Crowdsourcing
   * [TopCoder](https://www.topcoder.com/)
 * Community building
-  * [Twitter](www.twitter.com)
+  * [Twitter](https://www.twitter.com)
   * [Mastodon](https://mastodon.social/about)
 * Other
   * [Gigantum](https://gigantum.com/)
-  * [Ethical Alternatives & Resources](https://ethical.net/resources) 
+  * [Ethical Alternatives & Resources](https://ethical.net/resources)&#x20;
   * [Diversity Tickets- help events reach a more diverse audience](https://diversitytickets.org/)
   * [Matomo-opensource web analytics](https://matomo.org/)
-

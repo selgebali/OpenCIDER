@@ -1,6 +1,6 @@
 # Our Team
 
-|                         ![](.gitbook/assets/img\_20200425\_132219.jpg)                        |
+|                         ![](.gitbook/assets/IMG\_20200425\_132219.jpg)                        |
 | :-------------------------------------------------------------------------------------------: |
 |                                **Dr. Sara El-Gebali, Founder**                                |
 |                              [About me](https://t.co/GBXIuOHq1O)                              |
